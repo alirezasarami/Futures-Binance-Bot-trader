@@ -1,0 +1,62 @@
+python-binance
+websocket
+numpy
+datetime
+aiohttp
+dateparser
+requests
+ujson
+websockets
+setuptools
+wheel
+MarketData
+auxlib
+mamba -c conda-forge
+#conda
+
+ccxt
+SQLAlchemy
+python-telegram-bot
+arrow
+cachetools
+requests
+urllib3
+wrapt
+scikit-learn
+joblib
+jsonschema
+TA-Lib
+tabulate
+coinmarketcap
+
+# Required for hyperopt
+scikit-optimize
+filelock
+
+# find first, C search in arrays
+py_find_1st
+
+#Load ticker files 30% faster
+python-rapidjson
+
+# Notify systemd
+sdnotify
+
+# Api server
+flask
+
+# Support for colorized terminal output
+colorama
+
+#numpy==1.17.1
+pandas
+scipy
+
+plotly
+#TA-Lib
+
+#conda-package-handling
+#conda-souschef
+#conda-verify  
+#fonts-conda-ecosystem
+#fonts-conda-forge    
